@@ -1,4 +1,4 @@
-# Circular_counter
+# Circular Counter
 
 Easy circular counter using flutter
 
